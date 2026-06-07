@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Portofolio Guru TKJ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Mahlil Fajri</h1>
+    <p>Guru Produktif Teknik Komputer dan Jaringan</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Saya adalah guru produktif TKJ yang fokus pada pembelajaran jaringan komputer, cloud, web server, dan integrasi AI dalam pembelajaran praktik.</p>
+  </section>
+
+  <section>
+    <h2>Materi Pembelajaran</h2>
+    <ul>
+      <li>IP Address dan Subnetting</li>
+      <li>Web Server</li>
+      <li>Sharing Resource</li>
+      <li>Cloud Computing Dasar</li>
+      <li>AI untuk Pembelajaran TKJ</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Project Siswa</h2>
+    <p>Website ini dapat dijadikan contoh project cloud sederhana untuk siswa SMK TKJ.</p>
+  </section>
+
+  <footer>
+    <p>Kontak: mahlilfajri007@gmail.com</p>
+  </footer>
+
+</body>
+</html>
