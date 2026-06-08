@@ -88,3 +88,14 @@ footer a {
 .button:hover {
   background: #1e293b;
 }
+
+.qrcode {
+  display: block;
+  max-width: 250px;
+  width: 100%;
+  margin: 20px auto;
+  border: 1px solid #e2e8f0;
+  padding: 10px;
+  border-radius: 10px;
+  background: white;
+}
