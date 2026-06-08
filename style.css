@@ -30,3 +30,20 @@ footer {
   color: white;
   padding: 20px;
 }
+
+nav {
+  background: #1e293b;
+  text-align: center;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #38bdf8;
+}
