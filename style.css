@@ -53,3 +53,38 @@ footer a {
   color: white;
   text-decoration: none;
 }
+
+.card-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  padding: 20px;
+  border-radius: 10px;
+  flex: 1;
+  min-width: 220px;
+}
+
+.card h3 {
+  color: #0f172a;
+  margin-top: 0;
+}
+
+.button {
+  display: inline-block;
+  background: #0f172a;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.button:hover {
+  background: #1e293b;
+}
